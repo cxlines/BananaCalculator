@@ -1,3 +1,2 @@
 # BananaCalculator
-C# Forms Application BananaCalculator
-Simple code by: Müller Stefan
+C# Forms Application BananaCalculator by: Müller Stefan
